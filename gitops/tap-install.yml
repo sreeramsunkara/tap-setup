@@ -19,7 +19,7 @@ spec:
       paths:
       - config
       - config-full
-#!      - config-proxy
+      - config-proxy
 #!      - post-install
       valuesFrom:
       - configMapRef:
