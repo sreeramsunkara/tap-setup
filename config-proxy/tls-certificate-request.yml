@@ -59,7 +59,7 @@ spec:
 apiVersion: cert-manager.io/v1
 kind: ClusterIssuer
 metadata:
-  name: letsencrypt
+  name: letsencrypt-production
 spec:
   acme:
     email: sreeram.sunkara@gmail.com
