@@ -23,6 +23,7 @@ spec:
     - 'metadata-store.tap.tanzu4u.net'
     - 'api-portal.tap.tanzu4u.net'
     - '*.learningcenter.tap.tanzu4u.net'
+    - 'api.tap.tanzu4u.net'
   issuerRef:
     group: cert-manager.io
     name: letsencrypt-production
